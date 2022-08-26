@@ -1,0 +1,7 @@
+echo "# video-server-ai" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Static-Teck/video-server-ai.git
+git push -u origin main
