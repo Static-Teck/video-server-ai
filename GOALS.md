@@ -7,6 +7,7 @@ The goals will be routinely revisited and updated for each year with input from 
 
 ## 2022
 
+* Extract metadata that can be used to index, organize, and search video content
 * Unify Static Teck Video Server AI under one neutral and openly governed community
 * Cultivate adoption of Static Teck Video Server AI
 * Create value for all Static Teck developers and members
